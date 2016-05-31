@@ -9,6 +9,10 @@
         <value>Modules</value>
     </caseValues>
     <fields>
+        <label><!-- Description --></label>
+        <name>Description__c</name>
+    </fields>
+    <fields>
         <label><!-- Name --></label>
         <name>Name__c</name>
     </fields>
