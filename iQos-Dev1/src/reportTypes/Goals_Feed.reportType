@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportType xmlns="http://soap.sforce.com/2006/04/metadata">
+    <baseObject></baseObject>
+    <category>other</category>
+    <deployed>true</deployed>
+    <description>Work.com: Goals Feed Report Type</description>
+    <label>Goals Feed</label>
+    <sections>
+        <masterLabel>Goals</masterLabel>
+    </sections>
+    <sections>
+        <masterLabel>Feed</masterLabel>
+    </sections>
+</ReportType>

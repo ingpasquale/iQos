@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Day</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Days</value>
+    </caseValues>
+    <fields>
+        <label><!-- Friday --></label>
+        <name>Friday__c</name>
+    </fields>
+    <fields>
+        <label><!-- Module --></label>
+        <name>Module__c</name>
+        <relationshipLabel><!-- Days --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Monday --></label>
+        <name>Monday__c</name>
+    </fields>
+    <fields>
+        <label><!-- Saturday --></label>
+        <name>Saturday__c</name>
+    </fields>
+    <fields>
+        <label><!-- Scheduler --></label>
+        <name>Scheduler__c</name>
+        <relationshipLabel><!-- Days --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Sunday --></label>
+        <name>Sunday__c</name>
+    </fields>
+    <fields>
+        <label><!-- Thursday --></label>
+        <name>Thursday__c</name>
+    </fields>
+    <fields>
+        <label><!-- Tuesday --></label>
+        <name>Tuesday__c</name>
+    </fields>
+    <fields>
+        <label><!-- Wednesday --></label>
+        <name>Wednesday__c</name>
+    </fields>
+    <gender>Masculine</gender>
+    <layouts>
+        <layout>Day Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

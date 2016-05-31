@@ -1,0 +1,9 @@
+<apex:page controller="MyScheduler">
+	<div Style="float: left; width: 50%;">
+    <apex:pageBlock >
+		<apex:pageBlockTable value="{!schedulers}" var="s">
+    	<apex:column value="{!s.Name}"/>
+		</apex:pageBlockTable>
+	</apex:pageBlock>        
+    </div>
+</apex:page>
